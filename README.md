@@ -34,8 +34,8 @@ Train the model using the training data.
 Evaluate the model and plot predictions.
 
 ## Program
-#### Name : S Mohamed Ahsan
-#### Register Number : 212223240089
+#### Name : S LALIT CHANDRAN
+#### Register Number : 212223240077
 
 ```Python 
 # Define RNN Model
